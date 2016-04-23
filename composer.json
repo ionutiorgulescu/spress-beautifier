@@ -1,0 +1,17 @@
+{
+    "name": "rattrap/spress-html-beautifier",
+    "type": "spress-plugin",
+    "description": "Beautify your HTML",
+    "keywords": ["spress", "plugin"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leonard Mocanu",
+            "email": "leonard@mocanu.me"
+        }
+    ],
+    "require": {
+        "mihaeu/html-formatter": "1.*",
+        "spress/spress-installer": "2.0.*"
+    }
+}
