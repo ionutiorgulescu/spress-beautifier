@@ -13,7 +13,7 @@ Go to your Spress site and add the following to your `composer.json` and run
 
 ```json
 "require": {
-    "ionutiorgulesc/spress-html-beautifier": "1.0.*"
+    "ionutiorgulescu/spress-html-beautifier": "1.0.*"
 }
 ```
 
