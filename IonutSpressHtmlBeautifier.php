@@ -19,9 +19,9 @@ class RattrapSpressHtmlBeautifier implements PluginInterface
     public function getMetas()
     {
         return [
-            'name' => 'rattrap/spress-html-beautifier',
+            'name' => 'ionutiorgulescu/spress-html-beautifier',
             'description' => 'Beautify your HTML',
-            'author' => 'Leonard Mocanu',
+            'author' => 'Ionut Iorgulescu',
             'license' => 'MIT',
         ];
     }

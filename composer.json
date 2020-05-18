@@ -1,13 +1,13 @@
 {
-    "name": "rattrap/spress-html-beautifier",
+    "name": "ionutiorgulescu/spress-html-beautifier",
     "type": "spress-plugin",
     "description": "Beautify your HTML",
     "keywords": ["spress", "plugin"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Leonard Mocanu",
-            "email": "leonard@mocanu.me"
+            "name": "Ionut Iorgulescu",
+            "email": "ionut@iorgulescu.me"
         }
     ],
     "require": {
