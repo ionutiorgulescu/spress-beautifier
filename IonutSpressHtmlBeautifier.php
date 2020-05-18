@@ -5,7 +5,7 @@ use Yosymfony\Spress\Core\Plugin\EventSubscriber;
 use Yosymfony\Spress\Core\Plugin\Event\EnvironmentEvent;
 use Yosymfony\Spress\Core\Plugin\Event\RenderEvent;
 
-class RattrapSpressHtmlBeautifier implements PluginInterface
+class IonutSpressHtmlBeautifier implements PluginInterface
 {
     private $io;
     private $excluded_files = ['.htaccess', 'CNAME', 'robots.txt', 'crossdomain.xml', 'sitemap.xml', 'rss.xml'];
